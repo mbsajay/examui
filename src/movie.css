@@ -1,0 +1,51 @@
+/* Movie component container */
+.movie-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  /* Movie list */
+  .movie-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  /* Movie list item */
+  .movie-item {
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    padding: 10px;
+  }
+  
+  /* Movie form */
+  .movie-form {
+    margin-top: 20px;
+  }
+  
+  /* Movie form input fields */
+  .movie-input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  /* Movie form button */
+  .movie-button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  /* Movie form button hover effect */
+  .movie-button:hover {
+    background-color: #0056b3;
+  }
+  
